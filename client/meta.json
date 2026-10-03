@@ -1,0 +1,7 @@
+{
+  "day": "11 / 20",
+  "title": "Canlı Anket ve Oylama",
+  "description": "Bir soruyu birden fazla kullanıcıya aç; sonuçları tek oy kuralıyla canlı göster.",
+  "mode": "Hesap başına tek oy",
+  "note": "Kapsam ve ileri adımlar: PROJECT_DETAILS.pdf"
+}
